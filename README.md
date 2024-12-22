@@ -12,7 +12,7 @@ This web application allows users to enter a sentence and receive a translation 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sabi_ligo.git
+    git clone https://github.com/olumidedaramola21/sabi_ligo.git
     ```
 2. Navigate to the project directory:
     ```bash
