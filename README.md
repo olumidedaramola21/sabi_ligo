@@ -1,4 +1,4 @@
-# Sabi_Ligo
+# Sabi_Lingo
 
 This web application allows users to enter a sentence and receive a translation in their desired language. The project is built using Flask, a lightweight WSGI web application framework in Python.
 
@@ -12,11 +12,11 @@ This web application allows users to enter a sentence and receive a translation 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/olumidedaramola21/sabi_ligo.git
+    git clone https://github.com/olumidedaramola21/sabi_lingo.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd sabi_ligo
+    cd sabi_lingo
     ```
 3. Create a virtual environment:
     ```bash
