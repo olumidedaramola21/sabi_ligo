@@ -1,6 +1,6 @@
 # Sabi_Lingo
 
-This web application allows users to enter a sentence and receive a translation in their desired language. The project is built using Flask, a lightweight WSGI web application framework in Python.
+This web application allows users to enter a sentence and receive a translation in their desired language using Azure AI Translator. The project is built using Flask, a lightweight WSGI web application framework in Python.
 
 ## Features
 
@@ -35,6 +35,14 @@ This web application allows users to enter a sentence and receive a translation 
     ```bash
     pip install -r requirements.txt
     ```
+
+6. Get the required key-value pairs for the `.env` file from Azure account:
+    - Sign in to your [Azure Portal](https://portal.azure.com/)
+    - Navigate to your Azure Cognitive Services resource.
+    - Create AI Translator service resources
+    - Go to the "Keys and Endpoint" section.
+    - Copy the key and enpoint values.
+    - Update the `.env` fiile with these values
 
 ## Usage
 
